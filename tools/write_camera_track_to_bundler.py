@@ -3,7 +3,7 @@ sys.path.append("..")
 
 import numpy as np
 
-from pycolmap import SceneManager
+from pycolmap_parser import SceneManager
 
 
 #-------------------------------------------------------------------------------
